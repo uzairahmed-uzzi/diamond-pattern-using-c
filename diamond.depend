@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677687770 source:d:\programs\c programs\diamond\diamond.c
+	<stdio.h>
+	<conio.h>
+
